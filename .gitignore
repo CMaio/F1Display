@@ -1,6 +1,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/java,angular,git,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=java,angular,git,visualstudiocode
 
+### Docker ###
+/docker-compose.yml
+
 ### Angular ###
 ## Angular ##
 # compiled output
