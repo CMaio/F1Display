@@ -2,7 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=java,angular,git,visualstudiocode
 
 ### Docker ###
-/docker-compose.yml
+Backend/docker-compose.yml
 
 ### Angular ###
 ## Angular ##
